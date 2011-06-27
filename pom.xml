@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.willmanning</groupId>
-  <artifactId>thoughtworks</artifactId>
+  <artifactId>marsrover</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>thoughtworks</name>
+  <name>marsrover</name>
   <url>http://maven.apache.org</url>
 
   <properties>
